@@ -1,2 +1,2 @@
-# Chat-App-With-WebSockets
-Chat App With Web Sockets
+# Chat-App-Sample
+Sample Chat App
